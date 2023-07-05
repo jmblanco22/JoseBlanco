@@ -12,9 +12,6 @@ Skills: Java/ Python/ Javascript/ C++/ Swift/ HTML/ CSS
 - 📫 How to reach me: Josemartinblancodiaz22@gmail.com 
 - ⚡ Fun fact: I am Venezuelan! 
 
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/jmblanco22)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/jmblanco22)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/joseblanco7/)  
-
 [![trophy](https://github-profile-trophy.vercel.app/?username=jmblanco22)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jmblanco22)](https://github.com/anuraghazra/github-readme-stats)
