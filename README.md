@@ -12,6 +12,8 @@ Skills: Java/ Python/ Javascript/ C++/ Swift/ HTML/ CSS
 - 📫 How to reach me: Josemartinblancodiaz22@gmail.com 
 - ⚡ Fun fact: I am Venezuelan! 
 
+## Examples of Work
+
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/jmblanco22)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/jmblanco22)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/joseblanco7/)  
 
